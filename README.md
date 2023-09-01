@@ -12,5 +12,5 @@ dependencias ejecutando el siguiente comando:
 
 pip install -r requirements.txt
 
--Cómo jugar
+-Cómo jugar:
     Para comenzar a jugar, simplemente ejecuta el archivo run.py
