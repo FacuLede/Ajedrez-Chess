@@ -1,7 +1,7 @@
 
--Juego de Ajedrez en Python
+-Juego de ajedrez en python
 
-    Este proyecto es un juego de ajedrez programado en Python. Utiliza la librería PySimpleGUI
+Este proyecto es un juego de ajedrez programado en Python. Utiliza la librería PySimpleGUI
 para crear una interfaz gráfica de usuario (GUI) que permite a los jugadores disfrutar de 
 partidas de ajedrez en un entorno amigable.
 
